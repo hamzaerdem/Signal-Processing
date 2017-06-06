@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://i.hizliresim.com/5QRr25.png "Istanbul Commerce University"
+[logo]: https://i.hizliresim.com/4MR2rq.png "Istanbul Commerce University"
 
 ## Signal Processing on Python
 
