@@ -14,21 +14,36 @@ The aim of this project is to make the "signal manipulations" subject in the sig
 
 ## Prerequisites
 
-#### Windows
+### Windows
 
-*  Python Version 3
-*  Installing an **IDE** depends on your desire
+##### Installing Python
 
-#### Linux
+Python Version 3 
+
+[Download](https://www.python.org/downloads/windows/) 
+
+##### Installing python-matplotlib
+
+>python -m pip install -U pip setuptools
+
+>python -m pip install matplotlib
+
+
+### Linux
+
+##### Installing Python
 
 ###### Python Version 3 
 > sudo apt-get install python3
+
+##### Installing python-matplotlib
 
 ###### Debian / Ubuntu
 > sudo apt-get install python-matplotlib
 
 ###### Fedora / Redhat  
 > sudo yum install python-matplotlib
+
 
 *  Installing an **IDE** depends on your desire
 
@@ -44,9 +59,8 @@ or (If you just have python3)
 
 > python getInput.py
 
-Output:
 
-## Build With:
+## Build With
 
  * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) Python IDE
  * [gedit](http://www.gedit.org/) to edit Python Files. 
