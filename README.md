@@ -74,6 +74,7 @@ General form of x(t) --> (t)  | Without x
 > a.x(t+b)+c --> a(t + b) + c 
 
 a ∈ R, b ∈ R and c ∈ R
+
 There has to be spaces between the terms.
 
 ## Build With
