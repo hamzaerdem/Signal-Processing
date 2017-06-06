@@ -60,23 +60,19 @@ or (If you just have python3)
 
 ## Using the Program
 
-'''
-You have to choose one of these options
+##### You have to choose one of these options
 * 1.Horizontal Axis Manipulations
 * 2.Vertical Axis Manipulations
 * 3.Horizontal&Vertical Axis Manipulations
-'''
 
-'''
-Representation 
+##### Representation 
 
 General form of x(t) --> (t)  | Without x
 
-Example
+###### Example
 
 > a.x(t+b)+c --> a(t + b) + c 
-There has to be spaces between the terms
-'''
+There has to be spaces between the terms.
 
 ## Build With
 
