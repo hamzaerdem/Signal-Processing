@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: http://ww4.ticaret.edu.tr/internationaloffice/wp-content/uploads/sites/12/2013/03/tic-uni-logo-ing-OK.png "Istanbul Commerce University"
+[logo]: https://i.hizliresim.com/5QRr25.png "Istanbul Commerce University"
 
 ## Signal Processing on Python
 
