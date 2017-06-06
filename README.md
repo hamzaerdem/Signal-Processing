@@ -1,10 +1,10 @@
 ![alt text][logo]
 
-[logo]: https://i.hizliresim.com/VMy5Yj.png "Istanbul Commerce University"
+[logo]: https://i.hizliresim.com/VMy5Yj.png "Signal Processing"
 
 ## Signal Processing on Python
 
-The aim of this project is to make the "signal manipulations" subject in the signals and systems lecture into a program by using python programming language.
+The aim of this project is to make the "signal manipulations" subject in the signals and systems into a program by using python programming language.
 
 **What the program can do :**
 
@@ -27,7 +27,6 @@ Python Version 3
 >python -m pip install -U pip setuptools
 
 >python -m pip install matplotlib
-
 
 ### Linux
 
@@ -65,9 +64,9 @@ or (If you just have python3)
  * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) Python IDE
  * [gedit](http://www.gedit.org/) to edit Python Files. 
 
-## Versioning
+## Version
 
-[Bitbucket](https://bitbucket.org/) used for versioning. For the available versions, [see tags on the repository](https://bitbucket.org/istanbulcommerceuniversity/signalmanipulations/src)
+v1.0.0.0
 
 ## Authors
 
