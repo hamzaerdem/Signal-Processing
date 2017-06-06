@@ -27,25 +27,23 @@ The aim of this project is to make the "signal manipulations" subject in the sig
 
 ## Running the Program
 
-Çalıştırma 
-
-###### Ornek Kod Blogu
-```
+Download all source code.
 
 ```
-
+python3 getInput.py
 ```
-
+or (If you just have python3)
+```
+python getInput.py
 ```
 Output:
 
 ## Build With:
 
  * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) Python IDE
- * [Markdown Pad 2](http://markdownpad.com/) To arrange markdown (.md) file
+ * [gedit](http://www.gedit.org/) to edit Python Files. 
 
 ## Versioning
-
 
 [Bitbucket](https://bitbucket.org/) used for versioning. For the available versions, [see tags on the repository](https://bitbucket.org/istanbulcommerceuniversity/signalmanipulations/src)
 
