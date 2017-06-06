@@ -21,7 +21,10 @@ The aim of this project is to make the "signal manipulations" subject in the sig
 
 *Linux*
 
-*  Python Version 3
+* Python Version 3 : > sudo apt-get install python3
+* Debian / Ubuntu : > sudo apt-get install python-matplotlib
+* Fedora / Redhat : > sudo yum install python-matplotlib
+
 *  Installing an **IDE** depends on your desire
 
 
