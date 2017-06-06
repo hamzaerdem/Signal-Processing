@@ -97,7 +97,6 @@ v1.0.0.0
 
 ## Acknowledgments
 
-The idea behind this code has inspired and adviced by [Serhan Yarkan](http://tubis.ticaret.edu.tr/_Adek/CV/CV.aspx?adi=3N6k4L6UZTebUxOGNUTcHUdb/k7Jsx61CmJkY2zH5gqwjZW92/gi9df/7uln8vYzeWmATgvvZR2hbbiRbKSnRg==).
+The idea behind this code has inspired and adviced by [Serhan Yarkan](http://tubis.ticaret.edu.tr/_Adek/CV/CV.aspx?adi=3N6k4L6UZTebUxOGNUTcHUdb/k7Jsx61CmJkY2zH5gqwjZW92/gi9df/7uln8vYzeWmATgvvZR2hbbiRbKSnRg==). and [Ali Boyacı](http://tubis.ticaret.edu.tr/_Adek/CV/CV.aspx?adi=kzWyS95BYlPQvpccylDj83re78w+bUVzdqQ5n8mJ2/czUugnzYOoH94FdA+fh6e6cR6Gdg1PNUoF0xusgJjSBg==)
 
-All rights reserved. Copyright belongs to him.
-
+All rights reserved. Copyright belongs to them.
