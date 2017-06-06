@@ -29,13 +29,13 @@ The aim of this project is to make the "signal manipulations" subject in the sig
 
 Download all source code.
 
-```
-python3 getInput.py
-```
+
+> python3 getInput.py
+
 or (If you just have python3)
-```
-python getInput.py
-```
+
+> python getInput.py
+
 Output:
 
 ## Build With:
